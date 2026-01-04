@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
-      "material/chapters"
+      "material/chapters",
+      "material/chapters/005/exercises/exercise_01",
+      "material/chapters/005/exercises/exercise_02"
     ]
   }
