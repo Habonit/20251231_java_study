@@ -1,29 +1,5 @@
 {
     "java.project.sourcePaths": [
-      "material/chapters/001/exercises/exercise_01",
-      "material/chapters/001/exercises/exercise_02",
-      "material/chapters/001/exercises/exercise_03",
-      "material/chapters/001/exercises/exercise_04",
-      "material/chapters/001/exercises/exercise_05",
-      "material/chapters/001/exercises/exercise_06",
-      "material/chapters/002/exercises/exercise_01",
-      "material/chapters/002/exercises/exercise_02",
-      "material/chapters/002/exercises/exercise_03",
-      "material/chapters/002/exercises/exercise_04",
-      "material/chapters/002/exercises/exercise_05",
-      "material/chapters/003/exercises/exercise_01",
-      "material/chapters/003/exercises/exercise_02",
-      "material/chapters/003/exercises/exercise_03",
-      "material/chapters/003/exercises/exercise_04",
-      "material/chapters/003/exercises/exercise_05",
-      "material/chapters/004/exercises/exercise_01",
-      "material/chapters/004/exercises/exercise_02",
-      "material/chapters/004/exercises/exercise_03",
-      "material/chapters/004/exercises/exercise_04",
-      "material/chapters/004/exercises/exercise_05",
-      "material/chapters/005/exercises/exercise_01",
-      "material/chapters/006/exercises/exercise_01",
-      "material/chapters/006/exercises/exercise_02",
-      "material/chapters/006/exercises/exercise_03"
+        "material"
     ]
-  }
+}
