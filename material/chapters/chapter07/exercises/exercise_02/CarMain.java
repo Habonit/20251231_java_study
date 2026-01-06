@@ -17,7 +17,8 @@ package chapters.chapter07.exercises.exercise_02;
  * 구매한 차량 수: 3
  */
 public class CarMain {
-
+    
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         Car car1 = new Car("K3");
         Car car2 = new Car("G80");
